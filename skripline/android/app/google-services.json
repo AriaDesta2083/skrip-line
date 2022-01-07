@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "236186619059",
-    "project_id": "skripline",
-    "storage_bucket": "skripline.appspot.com"
+    "project_number": "64876514840",
+    "project_id": "skrip-line",
+    "storage_bucket": "skrip-line.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:236186619059:android:18757cb0bb61c3dc20b4c6",
+        "mobilesdk_app_id": "1:64876514840:android:d0326168838a0c11617d6d",
         "android_client_info": {
           "package_name": "com.example.skripline"
         }
       },
       "oauth_client": [
         {
-          "client_id": "236186619059-19gjfu242vs4ckvp9v9cv9ja6ldkc71a.apps.googleusercontent.com",
+          "client_id": "64876514840-ei4jaqope6ppl7md2ug90uem57tah1b7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAOD_F765Tcul8Fb5cR3P1u2NLmHQVHF6o"
+          "current_key": "AIzaSyDUoZXikELfFZp8vvki9N20liwfa9JNFH8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "236186619059-19gjfu242vs4ckvp9v9cv9ja6ldkc71a.apps.googleusercontent.com",
+              "client_id": "64876514840-ei4jaqope6ppl7md2ug90uem57tah1b7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
